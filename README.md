@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kelvin Calcaño
 - 👀 I’m interested in QA Automation Projects
-- 🌱 I’m currently iOS Automation
+- 🌱 I’m currently Mobile Automation
 - 💞️ I’m looking to collaborate on Testing projects
-- 📫 You can message me by Linkedin https://www.linkedin.com/in/kelvin-rafael-calcaño-báez-1a741b107/
+- 📫 You can message me by Linkedin https://www.linkedin.com/in/kelvin-calcano-qa-automation/
 
 <!---
 kelvinCB/kelvinCB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
