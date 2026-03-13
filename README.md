@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelvin Calcaño
-- 👀 I’m interested in QA Automation Projects
-- 🌱 I’m currently Mobile Automation
-- 💞️ I’m looking to collaborate on Testing projects
+- 👀 I’m interested in AI Software Development Projects
+- 🌱 I’m currently Mobile Automation 
+- 💞️ I’m looking to collaborate on fullstack projects
 - 📫 You can message me by Linkedin https://www.linkedin.com/in/kelvin-calcano-qa-automation/
 
 <!---
