@@ -5,7 +5,7 @@
 ### AI-minded QA Automation Engineer building reliable products, fast feedback loops, and practical full-stack tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-calcano-qa-automation/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kelvinCB/Kelvin-Portafolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kelvin-portafolio.netlify.app/)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=2F81F7&center=true&vCenter=true&width=780&lines=Mobile+Automation+%2B+AI+Software;Playwright+%2B+Appium+%2B+TypeScript;QA+mindset%2C+full-stack+execution)
 
